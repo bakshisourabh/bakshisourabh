@@ -29,9 +29,9 @@
 <p align="left">
 <a href="https://twitter.com/bakshi_sourabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bakshi_sourabh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sourabh-bakshi-25903814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourabh-bakshi-25903814" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/4095147/sourabh-bakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/4095147/sourabh-bakshi" height="30" width="40" /></a>
-<a href="https://instagram.com/@bakshi_sourabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@bakshi_sourabh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@sourabhbakshi2895" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sourabhbakshi2895" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4095147/sourabh-bakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/4095147/sourabh-bakshi" height="30" width="40" /></a>
+<a href="https://instagram.com/bakshi_sourabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@bakshi_sourabh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sourabhbakshi2895" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sourabhbakshi2895" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
