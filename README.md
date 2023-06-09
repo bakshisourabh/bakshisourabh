@@ -1,63 +1,394 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sourabh Suresh Bakshi
-=============================================================================================================================================
+<!DOCTYPE html>
+<html>
 
-Front-end Developer
--------------------
+<head>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
+        rel="stylesheet"
+        integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65"
+        crossorigin="anonymous" />
+  <link rel="shortcut icon"
+        href="favicon.ico">
+  <link rel="stylesheet"
+        href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
 
-I am front end developer who loves Angular
+  <link href="https://fonts.google.com/">
+  <link rel="stylesheet"
+        href="./main.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
 
-* 🌍  I'm based in Pune
-* 🖥️  See my portfolio at [MyPortfolio](http://dnyandeep.com)
-* ✉️  You can contact me at [bakshisourabh@gmail.com](mailto:bakshisourabh@gmail.com)
-* 🚀  I'm currently working on [Online Appointment System(OASPlus)](http://oasplus.com)
-* 🧠  I'm learning Angular
-* 🤝  I'm open to collaborating on Projects
-* ⚡  I am a Full Stack Developer
+<body class="wrapper">
+  <div class="page ">
+    <div class="page-content">
+      <div class="row align-items-start">
+        <div class="col-1">
+          <div class="left-nav">
+            <ul class="main-menu">
+              <li>
+                <a href="#about-me"
+                   class="nav-anim">
+                  <span class="menu-icon lnr lnr-user"></span>
+                  <span class="link-text">About Me</span>
+                </a>
+              </li>
+              <li>
+                <a href="#resume"
+                   class="nav-anim">
+                  <span class="menu-icon lnr lnr-graduation-hat"></span>
+                  <span class="link-text">Resume</span>
+                </a>
+              </li>
+              <li>
+                <a href="#portfolio"
+                   class="nav-anim">
+                  <span class="menu-icon lnr lnr-briefcase"></span>
+                  <span class="link-text">Portfolio</span>
+                </a>
+              </li>
+              <!-- <li>
+                <a href="#contact"
+                   class="nav-anim">
+                  <span class="menu-icon lnr lnr-envelope"></span>
+                  <span class="link-text">Contact</span>
+                </a>
+              </li> -->
+            </ul>
+          </div>
+        </div>
+        <div class="col-3">
+          <div class="self-info">
+            <div class="header-photo">
+              <img src="male-icon.png"
+                   alt="Sourabh Bakshi">
+            </div>
+            <div class="header-titles">
+              <h2>Sourabh Suresh Bakshi</h2>
+              <h4>Frontend developer</h4>
+            </div>
+            <div class="social-links">
+              <ul>
+                <li>
+                  <a href="#"
+                     target="_blank">
+                    <i class="fa fa-twitter"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="#"
+                     target="_blank">
+                    <i class="fa fa-linkedin-in"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="#"
+                     target="_blank">
+                    <i class="fa fa-facebook-f"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="info-list">
+              <ul>
+                <li>
+                  <span class="value">bakshisourabh@gmail.com</span>
+                </li>
+              </ul>
+            </div>
+            <div class="header-buttons">
+              <a href="#"
+                 target="_blank"
+                 class="btn btn-secondary">Download CV</a>
+            </div>
+          </div>
+        </div>
 
-<a href="https://www.github.com/bakshisourabh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/bakshisourabh?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/bakshi_sourabh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/bakshi_sourabh?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
-/></a>
+        <div class="col-8">
+          <div id="about-me">
+            <div class="page-title">
+              <h2>About me</h2>
+            </div>
+            I am a dedicated, organized and methodical individual. I have good interpersonal skills, am an excellent
+            team worker and am
+            keen and very willing to learn and develop new skills. I am reliable and dependable and often seek new
+            responsibilities within
+            a wide range of employment areas. I have an active and dynamic approach to work and getting things done. I
+            am determined and decisive.
+            I identify and develop opportunities.
+            
 
-### Skills
+          </div>
+
+          <div id="resume">
+            <div class="page-title">
+              <h2>Resume</h2>
+            </div>
+            <div class="row">
+              <div class="col-xs-12 col-sm-7">
+                <div class="block-title">
+                  <h3>Education</h3>
+                </div>
+
+                <!-- first -->
+                <div class="timeline-item clearfix">
+                  <h4 class="item-title">M. Tech in Computer science</h4>
+                  <p>Rajarambapu Institute of Technology Rajaramnagar, Islampur.
+                    An Autonomous Institute Affiliated to Shivaji University, Kolhapur.
+                  </p>
+                </div>
+                
+                <!-- Third -->
+                <div class="timeline-item clearfix">
+                  <h4 class="item-title">B.E in Information Technology</h4>
+                  <p>P.V.P.I.T. College of Enginnering, Sangli. Shivaji University, Kolhapur.
+                  </p>
+                </div>
+
+                <div class="block-title">
+                  <h3>Experience</h3>
+                </div>
+
+                <!-- <div class="timeline-item clearfix">
+                  <h4 class="item-title">Project lead(2017 - current)</h4>
+                  <p><strong>Persistent Systems Limited</strong>
+                    I am working as Frontend developer and working on Angular 12. The project is MDMCE and handling the
+                    team.
+                  </p>
+                </div>
+
+                <div class="timeline-item clearfix">
+                  <h4 class="item-title">Team lead(July - 2016 - Feb -2017)</h4>
+                  <p><strong>Persistent Systems Limited( Client VMWare )</strong>
+                    I was working as Flex developer and worked Flex and Java. The project is vSphere web client
+                    extension development.
+                  </p>
+                </div>
+
+                <div class="timeline-item clearfix">
+                  <h4 class="item-title">Senior software developer(Nov - 2014 - July -2016)</h4>
+                  <p><strong>HSBC</strong>
+                    I was working as Full stack developer and worked Flex and Java. The project is Client Vision.
+                  </p>
+                </div>
 
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
+                <div class="timeline-item clearfix">
+                  <h4 class="item-title">Senior software developer(May 2008 - Nov -2014)</h4>
+                  <p><strong>Dnyandeep Infotech Pvt. Ltd.</strong>
+                    I was working as Full stack developer. I worked on multiple projects. The technologies used were
+                    Adobe Flex, PHP frameworks(Kohana, Codeigniter, Joomla, Wordpress, PyroCMS), HTML, CSS, MySql..
+                  </p>
+                </div> -->
+
+              </div>
 
 
-### Socials
+              <div class="col-xs-12 col-sm-5">
 
-<p align="left"> <a href="https://www.github.com/bakshisourabh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/bakshi_sourabh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sourabh-bakshi-25903814" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/4095147/sourabh-bakshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bakshi_sourabh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/@sourabhbakshi2895" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+                <div class="block-title">
+                  <h3>Coding skills</h3>
+                </div>
+                <div class="skills-info skills-second-style">
+                  <!-- Skill 5 -->
+                  <div class="skill clearfix">
+                    <h4>Angular</h4>
+                    <div class="skill-value">95%</div>
+                  </div>
+                  <div class="skill-container skill-4">
+                    <div class="skill-percentage"></div>
+                  </div>
+                  <!-- End of Skill 5 -->
 
-### Badges
+                  <!-- Skill 5 -->
+                  <div class="skill clearfix">
+                    <h4>JavaScript</h4>
+                    <div class="skill-value">80%</div>
+                  </div>
+                  <div class="skill-container skill-5">
+                    <div class="skill-percentage"></div>
+                  </div>
+                  <!-- End of Skill 5 -->
 
-<b>My GitHub Stats</b>
+                  <!-- Skill 6 -->
+                  <div class="skill clearfix">
+                    <h4>PHP</h4>
+                    <div class="skill-value">70%</div>
+                  </div>
+                  <div class="skill-container skill-6">
+                    <div class="skill-percentage"></div>
+                  </div>
+                  <!-- End of Skill 6 -->
 
-<a href="http://www.github.com/bakshisourabh"><img src="https://github-readme-stats.vercel.app/api?username=bakshisourabh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="bakshisourabh's GitHub stats" /></a>
+                  <!-- Skill 7 -->
+                  <div class="skill clearfix">
+                    <h4>HTML/CSS</h4>
+                    <div class="skill-value">90%</div>
+                  </div>
+                  <div class="skill-container skill-7">
+                    <div class="skill-percentage"></div>
+                  </div>
+                  <!-- End of Skill 7 -->
 
-<a href="http://www.github.com/bakshisourabh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bakshisourabh&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+                  <div class="block-title">
+                    <h3>Knowledges</h3>
+                  </div>
+                  <div class="knowledges">
+                    <ul>
+                      <li>Photoshop</li>
+                      <li>Adobe Flex</li>
+                      <li>Bootstrap</li>
+                      <li>Python</li>
+                      <li>Java</li>
+                      <li>Machine learning</li>
+                      <li>Docker</li>
+                      <li>Joomla</li>
+                      <li>Codeigniter</li>
+                      <li>Kohana</li>
+                      <li>PyroCMS</li>
+                      <li>Phonegap</li>
+                    </ul>
+                  </div>
+                </div>
 
-<a href="http://www.github.com/bakshisourabh"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bakshisourabh&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/bakshisourabh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakshisourabh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+              </div>
+            </div>
+            <!-- <div id="contact">
+            <div class="page-title">
+              <h2>Contact</h2>
+            </div>
+            Proin volutpat mauris ac pellentesque pharetra. Suspendisse congue elit vel odio suscipit, sit amet tempor
+            nisl
+            imperdiet. Quisque ex justo, faucibus ut mi in, condimentum finibus dolor. Aliquam vitae hendrerit dolor,
+            eget
+            imperdiet mauris. Maecenas et ante id ipsum condimentum dictum et vel massa. Ut in imperdiet dolor, vel
+            consectetur dui.
+          </div> -->
+          </div>
 
-<b>Top Repositories</b>
+          <div id="portfolio">
+            <div class="page-title">
+              <h2>Portfolio</h2>
+            </div>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+            <ul class="nav nav-tabs" id="myTab" role="tablist">
+              <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="joomla-tab" data-bs-toggle="tab" data-bs-target="#joomla" type="button" role="tab" aria-controls="joomla" aria-selected="true">Joomla</button>
+              </li>
+              <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pyrocms-tab" data-bs-toggle="tab" data-bs-target="#pyrocms" type="button" role="tab" aria-controls="pyrocms" aria-selected="false">Codeigniter/Pyrocms/Kohana</button>
+              </li>
+              <li class="nav-item" role="presentation">
+                <button class="nav-link" id="html-css-tab" data-bs-toggle="tab" data-bs-target="#html-css" type="button" role="tab" aria-controls="html-css" aria-selected="false">HTML-CSS</button>
+              </li>
+              <!-- <li class="nav-item" role="presentation">
+                <button class="nav-link" id="flex-tab" data-bs-toggle="tab" data-bs-target="#flex" type="button" role="tab" aria-controls="flex" aria-selected="false">Adobe Flex</button>
+              </li> -->
+            </ul>
+
+            <div class="tab-content" id="myTabContent">
+              <div class="tab-pane fade show active" id="joomla" role="tabpanel" aria-labelledby="joomla-tab">
+                
+                <div class="row">
+                  <div class="col-4"><img src="images/limaye1.jpg"
+                        alt="Sandeep limaye"></div>
+                  <div class="col-4"><img src="images/mmb.png"
+                        alt="mmbangalore"></div>
+                  <div class="col-4"><img src="images/mmb-inner.jpg"
+                        alt="mmbangalore inner page"></div>
+                </div>
+
+                <div class="row">
+                  <div class="col-4"><img src="images/TrgBvwww.madhurang.com.jpg"
+                        alt="madhurang"></div>
+                  <div class="col-4"><img src="images/sanskritdeepika.png"
+                        alt="sanskritdeepika"></div>
+                  <div class="col-4"><img src="images/birdcall.png"
+                        alt="Birdcalls"></div>
+                </div>
+              </div>
+
+              <div class="tab-pane fade" id="pyrocms" role="tabpanel" aria-labelledby="pyrocms-tab">
+                <div class="row">
+                  <div class="col-4"><img src="images/kavyajaleganeinnerpage.jpg"
+                        alt="kavyaZaleGane inner page"></div>
+                  <div class="col-4"><img src="images/kavyaZaleGane.jpg"
+                        alt="kavyaZaleGane main page"></div>
+                  <div class="col-4"><img src="images/big-nutan-buddhibal-mandal.jpg"
+                        alt="NBM"></div>
+                </div>
+
+                <div class="row">
+                  <div class="col-4"><img src="images/big-miraj-mahavidyalay.jpg"
+                        alt="MVSMiraj"></div>
+                  <div class="col-4"><img src="images/superseal.png"
+                        alt="superseal"></div>
+                  <div class="col-4"><img src="images/NBM-design.jpg"
+                        alt="NBM"></div>
+                </div>
+
+                <div class="row">
+                  <div class="col-4"><img src="images/big-sunil-bhate.jpg"
+                        alt="Sunil bhate"></div>
+                  <div class="col-4"><img src="images/big-latthe-education.jpg"
+                        alt="Latthe"></div>
+                  <div class="col-4"><img src="images/big-tadepowertech.jpg"
+                        alt="Tade"></div>
+                </div>
+              
+              </div>
+
+              <div class="tab-pane fade" id="html-css" role="tabpanel" aria-labelledby="html-css-tab">
+                <div class="row">
+                  <div class="col-4"><img src="images/big-oasplus.jpg"
+                        alt="OAS"></div>
+                  <div class="col-4"><img src="images/big-nslaw.jpg"
+                        alt="NSLaw"></div>
+                  <div class="col-4"><img src="images/big-yerala-projects.jpg"
+                        alt="Yerala"></div>
+                </div>
+
+                <div class="row">
+                  <div class="col-4"><img src="images/big-gkgkm.jpg"
+                        alt="OAS"></div>
+                  <div class="col-4"><img src="images/big-gacsangli.jpg"
+                        alt="NSLaw"></div>
+                  <div class="col-4"><img src="images/big-nslaw.jpg"
+                        alt="Yerala"></div>
+                </div>
+              </div>
+              
+              <!-- <div class="tab-pane fade" id="flex" role="tabpanel" aria-labelledby="flex-tab">
+                <div class="row">
+                  <div class="col-4"><img src="images/oas-screenshot.jpg"
+                        alt="OAS"></div>
+                  <div class="col-4"><img src="images/1.png"
+                        alt="OAS"></div>
+                  <div class="col-4"><img src="images/member-registration.png"
+                        alt="OAS"></div>
+                </div>
+
+                <div class="row">
+                  <div class="col-4"><img src="images/control-panel.png"
+                        alt="OAS Admin panel"></div>
+                  <div class="col-4"><img src="images/Appointments.png"
+                        alt="OAS Admin panel"></div>
+                  <div class="col-4"><img src="images/visitors-list.png"
+                        alt="OAS Admin panel"></div>
+                </div>
+              </div> -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" 
+  integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+</body>
+
+</html>
+
+https://lmpixels.com/demo/breezycv/lightfw/1/index.html#about-me
